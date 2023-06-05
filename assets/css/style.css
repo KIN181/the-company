@@ -1,0 +1,17 @@
+.dashboard-icon {
+    font-size: 3.5rem;
+}
+
+.edit-icon {
+    font-size: 7rem;
+}
+
+.edit-photo {
+    width: 3.5rem;
+    height: 3.5rem;
+    object-fit: cover;
+}
+
+.delete-icon {
+    font-size: 8rem;
+}
